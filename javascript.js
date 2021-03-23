@@ -67,15 +67,3 @@ function startDate() {
 
 
 
-
-/* var quotes = [
-  'blanxejej',
-  'kswmwkswsmws',
-  'soreya die sau'
-]
-
-function newQuote() {
-var randomNumber = Math.floor(Math.random() * (quotes.length));
-document.getElementById('displayQuote').innerHTML = quotes[randomNumber];
-
-}  */
